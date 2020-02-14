@@ -1,0 +1,19 @@
+{
+  "name": "com.jethummer.sharp-yaml",
+  "displayName": "Sharp Yaml",
+  "description": "SharpYaml is a .NET library that provides a YAML parser and serialization engine for .NET objects, compatible with CoreCLR.",
+  "version": "1.6.5",
+  "unity": "2019.2",
+  "unityRelease": "0a12",
+  "dependencies": {
+    
+  },
+  "relatedPackages": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jethummer/SharpYaml.git",
+    "revision": ""
+  }
+}
