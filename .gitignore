@@ -218,4 +218,5 @@ _Pvt_Extensions
 *.o
 
 **/Properties/launchSettings.json
+SharpYaml.Tests
 /.DS_Store
